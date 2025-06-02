@@ -1,0 +1,17 @@
+libros = [
+{"Titulo": "La sombra del viento", "Autor": "Carlos Ruiz Zafón", "Año": 2001, "ISBN": "978-84-829975-2"},
+{"Titulo": "Rayuela", "Autor": "Julio Cortázar", "Año": 1963, "ISBN": "978-84-6631905-8"},
+{"Titulo": "Pedro Páramo", "Autor": "Juan Rulfo", "Año": 1955, "ISBN": "978-80-216093-5"},
+{"Titulo": "Los detectives salvajes", "Autor": "Roberto Bolaño", "Año": 1998, "ISBN": "978-84-6633711-3"},
+{"Titulo": "La colmena", "Autor": "Camilo José Cela", "Año": 1951, "ISBN": "978-84-3763789-1"},
+{"Titulo": "Nada", "Autor": "Carmen Laforet", "Año": 1944, "ISBN": "978-84-2335698-0"},
+{"Titulo": "La regenta", "Autor": "Leopoldo Alas Clarín", "Año": 1884, "ISBN": "978-84-1915902-1"},
+{"Titulo": "El túnel", "Autor": "Ernesto Sabato", "Año": 1948, "ISBN": "978-84-3221642-8"},
+{"Titulo": "Fortunata y Jacinta", "Autor": "Benito Pérez Galdós", "Año": 1887, "ISBN": "978-84-4601895-7"},
+{"Titulo": "La casa de Bernarda Alba", "Autor": "Federico García Lorca", "Año": 1936, "ISBN": "978-84-3168503-4"},
+{"Titulo": "El obsceno pájaro de la noche", "Autor": "José Donoso", "Año": 1970, "ISBN": "978-84-2043098-0"},
+{"Titulo": "Niebla", "Autor": "Miguel de Unamuno", "Año": 1914, "ISBN": "978-84-6703386-1"},
+{"Titulo": "Corazón tan blanco", "Autor": "Javier Marías", "Año": 1990, "ISBN": "978-84-8346140-2"},
+{"Titulo": "Poema de Mío Cid", "Autor": "Anónimo", "Año": 1200, "ISBN": "978-84-0203998-9"},
+{"Titulo": "La Celestina", "Autor": "Fernando de Rojas", "Año": 1499, "ISBN": "978-84-3760700-9"}
+]
